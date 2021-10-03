@@ -1,5 +1,5 @@
 # offline_dictionary
-This is basic offline dictionary that translate english word to corresponding tamil meaning.
+This is basic offline dictionary app that translate english word to corresponding tamil meaning.
 
 # Features 
 - history list
@@ -13,3 +13,5 @@ If You want your database more secure.Try sqlcipher to encrypt your database
 check this link https://github.com/sqlcipher/sqlcipher 
 
 **This is under development.we add searchview instead of edit text in our future release.**
+
+**This package only contains java code for reference purpose only**
