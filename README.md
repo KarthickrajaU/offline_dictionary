@@ -1,5 +1,5 @@
-# offline_dictionary
-offline dictionary application that translate english word to corresponding tamil meaning.
+# OFFLINE DICTIONARY
+offline dictionary application that translate english word to corresponding native language meaning.
 
 If you want to see full working application
  please check this link below
